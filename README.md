@@ -1,5 +1,13 @@
 # Facebook Data in Time and Space project for Ethi
 
+
+This repository has been forked from the main team repository and my contribution has been listed below:
+•	Facebook time series data for temporal tracking of people’s activity since they first signed-up for interactive visualisation.
+•	Quantification of data included when the user liked any pages, posts, comments etc. or posted any information on their account. 
+•	Designing ETL pipeline to extract data from JSON file, removing incorrect data to prepare a clean dataset and further obtain useful info. 
+•	Analysing online data using various libraries in python such as Pandas, Numpy, Matplotlib.
+
+
 Simple visualization of User Facebook Data using D3.js:
   - Rotating globe and heatmap displaying user's "your places" and daily facebook activity
   
